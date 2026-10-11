@@ -14,3 +14,4 @@ body:before{background:none;opacity:0}.topbar{background:rgba(250,251,255,.86);b
 .network-canvas{position:fixed;inset:0;width:100vw;height:100vh;z-index:0;pointer-events:none;opacity:.72;will-change:transform}.site-content{position:relative;z-index:1}
 
 body{background-image:radial-gradient(ellipse at 45% 6%,rgba(221,211,255,.52),transparent 42%),linear-gradient(180deg,#fafbff 0%,#f6f7fc 58%,#f0f3fa 100%);background-size:auto,auto;background-position:center top,center;background-repeat:no-repeat,no-repeat;background-attachment:fixed,fixed}
+.visual.legalize{background:radial-gradient(circle at 72% 28%,#e5dcff,#f3f0fc 70%)}
